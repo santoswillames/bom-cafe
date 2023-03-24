@@ -23,6 +23,14 @@ export const {
       green300: "#00b37e",
 
       orange300: "#FE7D06",
+      orange500: "#FE682A",
+    },
+
+    fontSizes: {
+      md: "1.125rem",
+      lg: "1.25rem",
+      xl: "1.5rem",
+      "2xl": "2rem",
     },
   },
 });
