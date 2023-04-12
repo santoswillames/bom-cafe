@@ -9,7 +9,7 @@ export const HomeContainer = styled("main", {
   //   minHeight: 600,
 });
 
-export const Product = styled("a", {
+export const Product = styled("div", {
   background: "$gray800",
   borderRadius: 8,
   //   padding: "0.25rem",
@@ -45,6 +45,7 @@ export const Product = styled("a", {
 
     strong: {
       fontSize: "$lg",
+      color: "$gray100",
     },
 
     span: {
