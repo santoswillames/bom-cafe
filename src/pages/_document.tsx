@@ -5,6 +5,7 @@ export default function Document() {
   return (
     <Html lang="pt-br">
       <Head>
+        <link rel="shortcut icon" href="/public/faveicon.svg" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
