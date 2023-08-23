@@ -23,7 +23,7 @@ lugar do Brasil.</p>
     <li><a href="https://keen-slider.io/">Keen Slider</a></li>
 </ul>
 
-<h3>Após clonar clonar o repositório, execute os comandos a seguir:</h3>
+<h3>Após clonar o repositório, execute os comandos a seguir:</h3>
 
 - Para baixar as dependências
 ```bash
